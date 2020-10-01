@@ -1,6 +1,6 @@
 {
-    "name": "learn_flutter_webrtc",
-    "short_name": "learn_flutter_webrtc",
+    "name": "mela_messenger",
+    "short_name": "mela_messenger",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
