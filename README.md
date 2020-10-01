@@ -5,6 +5,9 @@ Lets try to build a messenger with modern technologies
 
 http://www.damphat.com/mela_messenger/demo/#/
 
+## web app - firebase hosting
+https://mela-messenger.web.app
+
 ## Resources
 
 ### Videos conference using WebRTC
