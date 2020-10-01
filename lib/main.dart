@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 main() {
   runApp(MyApp());
@@ -8,6 +7,8 @@ main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return MaterialApp(
+      home: Center(child: Text("in development")),
+    );
   }
 }
