@@ -1,6 +1,9 @@
 ## Mela Messenger
 Lets try to build a messenger with modern technologies
 
+## Demo
+
+http://www.damphat.com/mela_messenger/demo/#/
 
 ## Resources
 
