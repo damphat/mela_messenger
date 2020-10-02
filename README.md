@@ -1,12 +1,14 @@
 ## Mela Messenger
 Lets try to build a messenger with modern technologies
 
-## Demo
-
-http://www.damphat.com/mela_messenger/demo/#/
-
-## web app - firebase hosting
+## Web App
 https://mela-messenger.web.app
+
+## Android App
+under construction
+
+## Ios App
+Under construction
 
 ## Resources
 
