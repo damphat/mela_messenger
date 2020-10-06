@@ -1,7 +1,7 @@
 ## Mela Messenger
 Lets try to build a messenger with modern technologies
 
-## Project managemant
+## Project management
 https://github.com/damphat/mela_messenger/projects/1?fullscreen=true
 
 ## Bugs && issues
