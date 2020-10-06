@@ -4,7 +4,7 @@ Lets try to build a messenger with modern technologies
 ## Project management
 https://github.com/damphat/mela_messenger/projects/1?fullscreen=true
 
-## Bugs && issues
+## Bugs & issues
 https://github.com/damphat/mela_messenger/issues
 
 ## DEMO
@@ -12,7 +12,7 @@ https://github.com/damphat/mela_messenger/issues
 https://mela-messenger.web.app
 
 ### Android App
-under construction
+Under construction
 
 ### Ios App
 Under construction
