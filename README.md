@@ -2,7 +2,7 @@
 Lets try to build a messenger with modern technologies
 
 ## Project managemant
-https://github.com/damphat/mela_messenger/projects/1
+https://github.com/damphat/mela_messenger/projects/1?fullscreen=true
 
 ## Bugs && issues
 https://github.com/damphat/mela_messenger/issues
