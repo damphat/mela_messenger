@@ -16,6 +16,32 @@
 
   <title>mela_messenger</title>
   <link rel="manifest" href="manifest.json">
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.22.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyDSpfHQ2KBGz8hYVlkoevYY5aS7llx_DJU",
+    authDomain: "mela-messenger.firebaseapp.com",
+    databaseURL: "https://mela-messenger.firebaseio.com",
+    projectId: "mela-messenger",
+    storageBucket: "mela-messenger.appspot.com",
+    messagingSenderId: "217464420983",
+    appId: "1:217464420983:web:ee9a4fc27b5bb6b18fa472",
+    measurementId: "G-5HWY9S6FVL"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
