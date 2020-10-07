@@ -37,6 +37,11 @@ class MyLogin extends StatelessWidget {
                     msg: "not implement",
                     webPosition: "center",
                   );
+
+                  Navigator.pushNamed(
+                    context,
+                    "/chat",
+                  );
                 },
               ),
             ],
