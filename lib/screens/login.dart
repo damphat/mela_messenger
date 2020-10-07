@@ -17,7 +17,7 @@ class MyLogin extends StatelessWidget {
                 style: Theme.of(context).textTheme.headline2,
               ),
               Text(
-                'no-cache',
+                'version: no-cache 0',
                 style: Theme.of(context).textTheme.subtitle1,
               ),
               TextField(
