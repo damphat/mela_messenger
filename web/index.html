@@ -55,6 +55,20 @@
         // 
         // navigator.serviceWorker.register('flutter_service_worker.js');
         // 
+
+        // FORE remove the service worker
+
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+
+        for(let registration of registrations) {
+
+                registration.unregister()
+
+        }}).catch(function(err) {
+
+            console.log('Service Worker registration failed: ', err);
+
+        });
       });
     }
   </script>
