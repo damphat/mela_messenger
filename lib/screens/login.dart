@@ -7,6 +7,7 @@ class MyLogin extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Container(
+          constraints: BoxConstraints(maxWidth: 600),
           padding: const EdgeInsets.all(80),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -14,6 +15,10 @@ class MyLogin extends StatelessWidget {
               Text(
                 'Login',
                 style: Theme.of(context).textTheme.headline2,
+              ),
+              Text(
+                'no-cache',
+                style: Theme.of(context).textTheme.subtitle1,
               ),
               TextField(
                 decoration: InputDecoration(
